@@ -46,7 +46,7 @@ Actualmente reforzando mis conocimientos en:
 - `JavaScript` junto con `Preact`.
 - Buenas prácticas con Git/GitHub
 - Optimización de rendimiento con `GPU.js`
-- Documentación clara y accesible
+- Documentación clara y accesible, como por ejemplo: [Refactorización](./Refactorización.md)
 
 ---
 
